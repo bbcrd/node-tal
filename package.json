@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/bbcrd/node-tal.git"
+    "url": "git://github.com/bbc/node-tal.git"
   },
   "keywords": [
     "tv",
@@ -23,7 +23,7 @@
   ],
   "license": "Apache-2",
   "bugs": {
-    "url": "https://github.com/bbcrd/node-tal/issues"
+    "url": "https://github.com/bbc/node-tal/issues"
   },
   "optionalDependencies": {
     "github:bbc/tal-config": "^0.1.0"

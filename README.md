@@ -1,4 +1,4 @@
-# node-tal [![Build Status](https://travis-ci.org/bbcrd/node-tal.png?branch=master)](https://travis-ci.org/bbcrd/node-tal)
+# node-tal [![Build Status](https://travis-ci.org/bbc/node-tal.png?branch=master)](https://travis-ci.org/bbc/node-tal)
 
 > Node.js backend library and connect middleware to serve your [TAL application](http://fmtvp.github.io/tal/) quickly.
 
